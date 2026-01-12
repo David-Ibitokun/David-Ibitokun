@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Ibitokun</h1>
 <h3 align="center">A passionate frontend developer from Nigeria, I am just starting on web dev. I will like to learn more on Django and ML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=david-ibitokun&label=Profile%20views&color=0e75b6&style=flat" alt="david-ibitokun" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-ibitokun" alt="david-ibitokun" /></a> </p>
-
 - 🔭 I’m currently working on **NextStep Navigator**
 
 - 🌱 I’m currently learning **Django and React**
